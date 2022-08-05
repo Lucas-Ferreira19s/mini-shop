@@ -35,6 +35,10 @@ export const right = styled.section`
       position: absolute;
       background-color: white;
       cursor: pointer;
+      display: none;
+      @media (max-width: 770px){
+        display: block;
+      }
       &:first-child{
         right: 0;
       }
