@@ -4,8 +4,9 @@
 
 - One page e-commerce
 - made with react
-- e-commerce responsive
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- made with styled components
+- responsive
+- in the process of completion
 
 
 ![preview img](/preview.png)
