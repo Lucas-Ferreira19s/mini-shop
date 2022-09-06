@@ -1,6 +1,5 @@
 import { useState } from "react";
 import * as C from "./stylesHeader";
-import { LayoutMain } from "../layout";
 import logo from "../../assets/images/logo.svg"
 import cart from "../../assets/images/icon-cart.svg"
 import avatar from "../../assets/images/image-avatar.png"
