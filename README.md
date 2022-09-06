@@ -6,7 +6,6 @@
 - made with react
 - made with styled components
 - responsive
-- in the process of completion
 
 
 ![preview img](/preview.png)
